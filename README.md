@@ -1,10 +1,19 @@
-Terms for Non-Commercial Use of Equipment Designs
-Janelia Research Campus
-These designs and schematics ("Designs") are provided on the following terms.  
-1.  You may use, copy, modify, display, and distribute the Designs for any non-commercial research or educational purpose.  Unless you receive permission from HHMI under a formal license, you may not use the Designs for any commercial purpose, such as the manufacture of products for sale.  In addition, you may not sell or otherwise charge for the Designs, or use the Designs in support of a patent application.
-2.  The Designs are provided "as is."  HHMI and its trustees, employees, and agents make no representations or warranties of any kind relating to the Designs.
-3.  HHMI and its trustees, employees, and agents will not be liable for any direct, indirect, special or consequential damages arising out of use of the Designs.
-4.  HHMI's name and the names of the HHMI employees responsible for generating the Designs may not be used in advertising or publicity without specific, written prior permission from HHMI and the individuals proposed to be named.
-5.  HHMI has no obligation to provide support for or assistance with the use of the Designs or any products or items made using the Designs.
-6.  Any redistribution of the Designs must contain or reference these terms.
-Terms Last Updated:  May 2016
+Modular In vivo Multiphoton Microscopy System (MIMMS)
+MIMMS (Modular In vivo Multiphoton Microscopy System) is a modular platform for performing two‐photon laser scanning microscopy (TPLSM) optimized for in vivo applications. The system generally uses commercially available core parts for movement of the objective in the X‐, Y­‐, and Z­‐axis linear translation and X‐axis rotation for in vivo experiments. The backbone of the design is a movable, raised optical breadboard, providing a large area for affixing optical equipment associated with the microscope. The raised design also provides space for additional testing equipment and allows the entire microscope system to be moved out of the way for 360° access to the working area. The microscope is designed with a modular approach to the components, with interchangeable systems for different laser scanning modalities, moving and fixed objective lens mounting, widefield conventional imaging, and high acceptance, non-descanned fluorescence detection.
+
+Advantages:
+
+The design allows for an extensible in vivo 2-photon microscopy system
+The system provides suitable clearance for additional apparatus needed for the specimen.
+MIMMS can be completely moved out of the way to permit full 360° access to the specimen.  
+Design created to make customization, modifications, and experimentation possible.
+Assemblies are open and contain more degrees of freedom than monolithic, turn-key systems to allow interoperability with many different key components (lenses, scan systems, etc.) while using well-stocked, commercially available parts, where possible.
+Application:
+
+High-resolution imaging in neurobiology, embryology, and other areas with highly scattering tissues.
+Imaging in highly opaque tissues such as skin.
+Opportunity:
+
+For the most recent updates, improving cost and usability, please refer to MIMMS 2.0 (2018).
+
+Open-source documentation is available for commercial and non-commercial use via the link to Flintbox at the right. 
